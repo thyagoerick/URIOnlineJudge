@@ -12,7 +12,7 @@ Dica: Ao utilizar a fórmula, procure usar
 (dentre elas o C++), assumem que o resultado 
 da divisão entre dois inteiros é outro inteiro.
 --------------------------------------------------
-Entrada:
+Entrada: 
 O arquivo de entrada contém um valor de ponto 
 flutuante (dupla precisão), correspondente ao 
 raio da esfera.
